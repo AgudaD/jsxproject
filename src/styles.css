@@ -1,3 +1,15 @@
 .red{
-    color: brown;
+    color: white;
+    font-size: xx-large;
+}
+.img-style{
+    width: 460px;
+    height: 420px;
+}
+.img-set{
+    display: flex;
+    justify-content: space-evenly;
+}
+.vid-style{
+    margin-top: 15px;
 }
